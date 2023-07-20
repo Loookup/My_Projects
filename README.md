@@ -1,6 +1,6 @@
 # My_Projects
 
-My personal projects
+My personal projects to become an Entrepreneur
 
 ## 1. Tracking Mobile Robot at home 
 
