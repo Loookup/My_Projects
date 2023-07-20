@@ -18,3 +18,7 @@ My personal projects to become an Entrepreneur
 ### Robotic Arm
 
 - Help work
+
+### Voice Recognition
+
+- AI
