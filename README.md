@@ -14,3 +14,7 @@ My personal projects to become an Entrepreneur
 
 - Mobile Robot Kinematics and Dynamics
 - Set proper speed
+
+### Robotic Arm
+
+- Help work
